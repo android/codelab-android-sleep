@@ -1,5 +1,9 @@
 Sleep API Codelab Repository
 ======================
+
+## 🛑 This codelab is deprecated and will be removed soon 🛑
+
+
 The Sleep API allows apps to estimate when the user goes to sleep and wakes up.
 
 This repository is to be used with the Sleep API codelab:
